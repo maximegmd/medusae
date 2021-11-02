@@ -50,6 +50,6 @@ Minage
 En supposant que vous avez effectué l'installation ci-dessus, il suffit d'ajouter quelques arguments à votre
 noeud :
 
-``geth --datadir data --networkid 46834 --mine --miner.etherbase=0xAAAAAAAAA``
+``geth --datadir data --networkid 46834 --mine --miner.threads=1 --miner.etherbase=0xAAAAAAAAA``
 
 Bien sur n'oubliez pas de remplacer ``0xAAAAAAAA`` par l'adresse publique qui recevra les récompenses.

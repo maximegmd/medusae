@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Medusae Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This documentation is for the Medusae crypto currency forked from Ethereum to support the economy of the `DirtyBiologistan <https://www.youtube.com/watch?v=ehmyaX0lJew>`_
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Lire la documentation : https://medusae.readthedocs.io/en/latest/index.html

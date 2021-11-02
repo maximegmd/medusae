@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
+Medusae
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Medusae** est une crypto-monnaie décentralisée basée sur Ethereum et sans indexation par rapport aux autres monnaies.
+A ce jour elle est candidate pour devenir la monnaie officielle du `DirtyBiologistan <https://www.youtube.com/watch?v=ehmyaX0lJew>`_.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Pour en savoir plus sur comment utiliser cette monnaie, rendez-vous sur :doc:`user`. Si vous êtes un développeur ou que vous souhaitez
+participer à la décentralisation en minant de la monnaie, rendez-vous sur :doc:`developer`.
 
 .. note::
 
-   This project is under active development.
+   Ce projet est en cours de développement !
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   user
+   developer
+   

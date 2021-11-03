@@ -17,7 +17,7 @@ Durant l'installation MetaMask va vous dire de copier une liste de 24 mots, il e
 que vous les écriviez sur un papier que vous garderez précieusement, il sera impossible de récupérer
 vos fonds si vous perdiez ces 24 mots !
 
-Une fois MetaMask installé il ne vous reste plus qu'à vous rendre sur https://yamashi.github.io/MDU/ 
+Une fois MetaMask installé il ne vous reste plus qu'à vous rendre sur https://medusae.network/ 
 et de cliquer sur le bouton, MetaMask vous demandera si vous autorisez le site à se connecter à MetaMask
 puis si vous acceptez d'ajouter le réseau. 
 
